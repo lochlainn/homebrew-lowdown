@@ -7,5 +7,6 @@ This is my personal [Homebrew](https://brew.sh/) tap for [lowdown](https://krist
 To install lowdown with homebrew:
 
 ```sh
-brew install to1ne/lowdown/lowdown
+brew tap lochlainn/lowdown
+brew install lowdown
 ```
